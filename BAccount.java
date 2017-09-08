@@ -25,4 +25,5 @@ public class BAccount { // PAR
 	public void setBal(double bal2) {
 		bal = bal2;
 	}
+
 }
